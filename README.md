@@ -21,7 +21,9 @@
 开机一天跑500万数据， 开机一个月跑一亿五千万。开机一年跑37亿数据。实现饱腹不是梦
 
 探测碰撞成功之后为
+
 恭喜您，碰撞成功
+
 地址： xxxxxxxxxxxxxxxxxxxxxxx  私钥: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ![](./collider.png)
