@@ -1,0 +1,13 @@
+.idea
+.vscode
+.DS_Store
+
+_const
+logic
+utils
+go.mod
+main.go
+*go.sum
+
+collider_mac
+
