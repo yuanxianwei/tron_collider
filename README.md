@@ -31,3 +31,9 @@
 Telegram: https://t.me/laomaok
 
 weixin: laomao12a
+
+### 波场靓号生成器程序
+<a href="https://github.com/jeffcail/batch_generate_tron_address" target="_blank">波场靓号生成器程序</a>
+
+### 波场钱包源码
+<a href="https://github.com/jeffcail/tron-wallet" target="_blank">波场钱包源码</a>
